@@ -1,0 +1,40 @@
+body{
+        background-color:lavender;
+        text-align: center;
+    }
+h2{
+        font-style: italic;
+        size: 30px;
+        color: #f08080;
+}
+p{
+        font-size: 20px;
+}
+
+.section{
+    color: black;
+    font-weight: bold;
+    background: #3e87a6; /* yellow */
+    border: 1px solid black;
+    padding: 2em;
+}
+
+.green{
+        color: green;
+}
+
+#red{
+    color: red;
+}
+
+a:hover{
+    color: red;
+
+}
+img {
+
+    width: 500px;
+  
+  }
+    
+    
